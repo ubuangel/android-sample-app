@@ -14,5 +14,5 @@ public class Constants {
 
     public static final String QUERY_ACCEPT_OAUTH_CODE = "code=";
     public static final String QUERY_DENY_OAUTH_CODE = "error=";
-    angelito2
+    holaassdfs33a
 }
